@@ -8,7 +8,8 @@ To acheieve the above scenario, with the help of following these method :
 #### fragmentManager.popBackStack(null,FragmentManager.POP_BACK_STACK_INCLUSIVE); 
 #### fragmentManager.popBackStackImmediate(null,FragmentManager.POP_BACK_STACK_INCLUSIVE);
 
-<a https://raw.githubusercontent.com/Priyanka-Mohanty/Fragment-Flow/master/20180525_215607.gif />
+
+![](https://raw.githubusercontent.com/Priyanka-Mohanty/Fragment-Flow/master/20180525_215607.gif)
 
 ## If We want to move from Frgment E -> A ,Then these are the following code
 
